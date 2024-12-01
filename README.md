@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshranjan2003&show_icons=true&locale=en&layout=compact" alt="riteshranjan2003" /></p>
 
-![](https://leetcard.jacoblin.cool/123Ritesh?theme=dark)
+![](https://leetcard.jacoblin.cool/123Ritesh?ext=heatmap)
